@@ -2,6 +2,8 @@
 
 # AIM:
 
+To implement interprocess communication using pipe command.
+
 # ALGORITHM:
 
 1.	Create a child process using fork().
